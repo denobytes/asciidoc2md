@@ -1,7 +1,7 @@
 
 [![Latest version](https://deno.land/badge/asciidoc2md/version)](https://deno.land/x/asciidoc2md)
 
-**asciidoc2md** is a downdoc-based cli tool for deno to Convert asciidoc to markdown
+**asciidoc2md** is a downdoc-based cli tool for deno to convert asciidoc to markdown
 
 built on https://github.com/opendevise/downdoc
 
